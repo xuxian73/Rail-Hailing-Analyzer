@@ -1,6 +1,7 @@
 # Rail-Hailing Analyzer
 
 This is a concise and efficient visualization of ride-hailing order data in Chengdu. The project is developed based on Qt.
+Look for more detail in the PDF file, Rail-Hail-Analyzer report.
 
 ## Build
 
